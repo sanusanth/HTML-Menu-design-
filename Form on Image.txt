@@ -85,7 +85,7 @@ input[type=text]:focus, input[type=password]:focus {
 <p>This example creates a form on a responsive image. Try to resize the browser window to see how it always will cover the whole width of the screen, and that it scales nicely on all screen sizes.</p>
 <br>
 <center>
-<p> Creater By <b> Sanusanth </p>
+<p> Creater By <b> Sanusanth Dowmi </p>
 <a href="https://github.com/sanusanth">Visit my profile.com!</a>
  </center>
 </body>
