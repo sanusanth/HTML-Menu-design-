@@ -29,7 +29,7 @@ body, html {
 <p>This example creates a full page background image. Try to resize the browser window to see how it always will cover the full screen (when scrolled to top), and that it scales nicely on all screen sizes.</p>
 <br>
 <center>
-<p> Creater By <b> Sanusanth </p>
+<p> Creater By <b> Sanusanth Dowmi </p>
 <a href="https://github.com/sanusanth">Visit my profile.com!</a>
  </center>
 </body>
