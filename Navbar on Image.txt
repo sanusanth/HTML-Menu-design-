@@ -65,7 +65,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 </div>
 <br>
 <center>
-<p> Creater By <b> Sanusanth </p>
+<p> Creater By <b> Sanusanth Dowmi </p>
 <a href="https://github.com/sanusanth">Visit my profile.com!</a>
  </center>
 </body>
