@@ -166,7 +166,7 @@ function showSlides(n) {
 </script>
 <br>
 <center>
-<p> Creater By <b> Sanusanth </p>
+<p> Creater By <b> Sanusanth Dowmi </p>
 <a href="https://github.com/sanusanth">Visit my profile.com!</a>
  </center>
 </body>
